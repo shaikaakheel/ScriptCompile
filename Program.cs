@@ -11,7 +11,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Aakheel a = new Aakheel(@"C:\Users\AShaik\Package.dtsx");
+            ScriptCompile.Aakheel a = new ScriptCompile.Aakheel(@"C:\Users\AShaik\Package.dtsx");
             Console.ReadLine();
         }
     }

@@ -13,7 +13,7 @@ namespace ConsoleApp</br>
     {   </br>
         static void Main(string[] args)</br>
         {   </br>
-           Aakheel a = new Aakheel(@"C:\Users\AShaik\Package.dtsx");</br>
+           ScriptCompile.Aakheel a = new ScriptCompile.Aakheel(@"C:\Users\AShaik\Package.dtsx");</br>
             Console.ReadLine();</br>
         }   </br>
     }   </br>
